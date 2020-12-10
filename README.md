@@ -1,2 +1,1 @@
-# VHTM
-VHTM-Summarization
+# VHTM-Summarization
